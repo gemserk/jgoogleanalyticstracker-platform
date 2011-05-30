@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.gemserk.analytics.googleanalytics</groupId>
+		<artifactId>parent</artifactId>
+		<version>1.2.1-GEMSERK-SNAPSHOT</version>
+	</parent>
+	<artifactId>jgoogleanalyticstracker-desktop</artifactId>
+	<name>jgoogleanalyticstracker for desktop</name>
+	<description>Platform configuration for the jgoogleanalyticstracker project for desktop</description>
+	<packaging>jar</packaging>
+
+	<dependencies>
+		<dependency>
+			<groupId>com.dmurph</groupId>
+			<artifactId>JGoogleAnalyticsTracker</artifactId>
+		</dependency>
+	</dependencies>
+</project>
