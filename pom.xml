@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.gemserk.analytics.googleanalytics</groupId>
 	<artifactId>parent</artifactId>
-	<version>1.2.1-GEMSERK-RC1</version>
+	<version>1.2.1-GEMSERK-SNAPSHOT</version>
 	<name>Platform configuration for the jgoogleanalyticstracker project</name>
 	<description>Platform configuration for the jgoogleanalyticstracker project</description>
 	<url>http://github.com/gemserk/jgoogleanalyticstracker-platform</url>
